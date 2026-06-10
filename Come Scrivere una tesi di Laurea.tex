@@ -1,0 +1,174 @@
+%
+%
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}  % per accentare da tastiera.
+\usepackage[italian]{babel} % this is an example to activate Italian hyphenation.
+\usepackage{fixltx2e} % this is necessary for subscript
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[most]{tcolorbox}
+
+
+\newcommand{\ac}{\`} % comando accento
+
+
+\newcommand{\oq}{``} %comando open quotes
+\newcommand{\cq}{''} % comando closed quotes
+
+
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    
+    % Push title lower on the page
+    \vspace*{4cm}
+    
+    {\LARGE \textbf{Breve guida su}\\[0.3cm]
+    \textbf{come scrivere una tesi di Laurea\\[0.2cm]
+    \Large{(o un testo scientifico)}}\par}
+    
+    \vfill % pushes content below downward
+
+    {\large Giorgio Arcara\par}
+    {\large \today\par}
+    
+    \vfill % pushes logo to the bottom
+    
+    % Directly include the logo without figure environment
+    \includegraphics[width=3cm]{Figures/CC_license_3_0.png}\\[0.3cm]
+    {\small Licenza CC 3.0}
+\end{titlepage}
+
+%
+\tableofcontents
+\pagebreak
+
+\section{Introduzione}
+
+
+\chapter{Ricerca bibliografica}
+\section{Conoscere le parole chiave}
+Il primo passo per cercare della letteratura scientifica è quello di conoscere le parole chiave corrette per l'argomento. Queste possono essere trovate insieme al relatore all'inizio e man mano che si sviluppa una conoscenza dell'argomento diventeranno di più e più ricche.
+
+\section{Partire da review}
+Quando si comincia a studiare un argomento nuovo è buona norma partire da review.
+
+\begin{tcolorbox}[colback=white, colframe=gray!90, title=Nota]
+la ricerca della letteratura andrà fatta più volte durante la scrittura della tesi, anche sulla base di nuove conoscenze, evidenze, che emergeranno nel corso dello studio o discussioni (o lettura di articoli che emergono durante la prima ricerca).
+\end{tcolorbox}
+
+\section{Utilizzo di LLM per ricerca letteratura}
+Gli LLM (cioè Large Language Models), come ChatGPT o Gemini, possono essere un valido aiuto per la letteratura.  \textbf{La mia raccomandazione è di usarli per cercare articoli ma non per cercare informazioni} o solo citazioni
+Gli LLM sono particolarmente utili per ampliare il campo di ricerca o scoprire nuove aree di letteratura rilevante, magari molto rilevanti ma lontane dalle parole chiave che utilizzereste per la ricerca di informazioni.  Gli LLM possono essere anche usati per individuarei lavori o concetti rilevanti.
+Al tempo di scrittura di questo paragrafo (10/11/2025), gli LLM possono infatti fornire informazioni inesatte o addirittura completamente inventate anche se verosimili (in termini tecnici queste risposte sbagliate si chiamano ``hallucinations'').
+
+L'utilizzo corretto è dunque rivolgere domande anche vaghe agli LLM ma poi includere nella tesi soltanto informazioni verificate negli articoli e non basarsi su informazioni riportate direttamente dal LLM.
+In nessun caso utilizzate ``citazioni `` (es. \emph{Smith et al., 2022. A handbook on clinical neuropsychology, Springer}) perché anche queste possono essere anche completamente inventate.
+
+
+
+
+\section{Recuperare i files degli articoli}
+
+
+\chapter{La scrittura della Tesi}
+\section{Prima di cominciare scrivere}
+Prima di cominciare a scrivere la tesi è fondamentale avere in mente uno \textbf{schema generale} di quello che si intende scrivere. Cominciando a scrivere senza nessun tipo di traccia si rischia che quello che lo scritto risulti troppo un \oq flusso di pensiero\cq, difficile da seguire. Un modo utile per procedere è quello di partire con uno schema generale, anche molto vago, e man mano andare nel dettaglio di questo schema. \\
+Immaginiamo un'ipotetica tesi su una tesi sperimentale che confronti \mbox{fMRI} e MEG per il mappaggio prechirurgico di aree funzionali. Un ipotetico schema dell'introduzione della tesi potrebbe essere questo.
+
+\begin{enumerate}
+\item Introduzione su necessità mappaggio e su principali tecniche.
+\item L'fMRI nel mappaggio prechirurgico.
+\item La MEG nel mappaggio prechirurgico.
+\item Studi su confronti diretti tra MEG ed fMRI nel mappaggio prechirurgico.
+\item Motivazioni e obiettivi dello studio corrente.
+\end{enumerate}
+
+Questo prima schema, per quanto generale, aiuta ad avere un'idea di massima su che struttura avrà quello che scrivi e permette di essere sicuri di inserire tutti gli argomenti, mantenendo un certo filo logico. Finita questa parte si può comunque ulteriormente nel dettaglio nello schematizzare. Ad esempio:
+Avere schemi di questo tipo è utile sia per tenere traccia del \textbf{filo logico}, sia per assicurarsi che siano \textbf{trattati tutti gli argomenti di interesse}.
+
+\pagebreak
+
+\begin{enumerate}
+\item Introduzione su necessità mappaggio e su principali tecniche.
+\item L'fMRI nel mappaggio prechirurgico.
+	\begin{enumerate}
+	\item panoramica degli studi.
+	\item vantaggi dell'fMRI.
+	\item svantaggi dell'fMRI.
+	\end{enumerate}
+\item La MEG nel mappaggio prechirurgico.
+\begin{enumerate}
+	\item panoramica degli studi.
+	\item vantaggi della MEG.
+	\item svantaggi della MEG.
+	\end{enumerate}
+\item studi su confronti diretti tra MEG ed fMRI.
+	\begin{enumerate}
+	\item studi che trovano vantaggio fMRI.
+	\item studi che trovano vantaggio MEG.
+	\end{enumerate}
+\item Motivazioni e obiettivi dello studio corrente.
+\item ...
+\end{enumerate}
+
+Un aspetto importante che si può già cominciare a vedere è il mantenimento di una \textbf{coerenza interna}. Se parlo sempre di fMRI e poi di MEG, la stessa struttura o lo stesso ordine viene replicato per tutto il testo. 
+
+\section{Non aspettare troppo prima di cominciare a scrivere}
+Anche se avere una struttura aiuta, un errore comunissimo nello scrivere è quello di aspettare di essere pienamente convinti prima di scrivere. Questo è la causa principale del \oq blocco dello scrittore\cq. Se una prima frase non ci convince del tutto di primo acchito, aspettiamo a scriverla. Assolutamente sbagliato. Sempre meglio scrivere di getto, senza preoccuparsi che tutto sia perfetto subito. La strategia vincente è scrivere senza porsi troppi problemi e piuttosto ricontrollare tante volte. Sarà comunque necessario ricontrollare una o più volte.
+
+\section{Scrivere, Ricontrollare, Riscrivere, Ricontrollare, ...}
+Un errore molto comune (specie nella scrittura di una tesi di laurea) è quello di non ricontrollare adeguatamente il testo scritto. Una strategia usata spesso è quella di prestare molta attenzione nella prima scrittura per evitare di ricontrollare in seguito, per risparmiare tempo. Questo è un errore, perché è pressoché impossible evitare di commettere errori nella scrittura. Se non ricontrolli il testo l'unico effetto che otterrai sarà quello di causare irritazione nella persona che leggerà la tesi per correggerla, che avrà l'impressione di un lavoro fatto superficialmente. Ricontrollare (più di una volta) è inevitabile. La strategia più adatta per scrivere un testo scientifico è scrivere, anche di getto, e piuttosto ricontrollare varie volte. Solo rileggendo ci si può accorgere di frasi lasciate a metà, di fili logici o argomentazioni poco convincenti, o di errori di battitura. 
+Quando hai finito un paragrafo, un capitolo o comunque una sezione consistente, è utile cercare di analizzare la struttura di quanto scritto. Quale è la struttura del mio testo? Ha un filo logico chiaro? Risulta chiara la connessione tra le varie parti?
+
+
+\section{Coerenza nel presentare le informazioni}
+Una cosa che facilita molto il lettore è la coerenza nel testo nel presentare le informazioni. Ad esempio, se parli di pazienti e poi di soggetti di controllo è sempre meglio che tu mantenga questo ordine, nel testo, nelle tabelle, nel presentare i risultati e nelle figure. Questa coerenza rende il testo più semplice da leggere e il lettore può concentrarsi sul contenuto invece che sulla forma.
+
+\section{Semplicità nello stile}
+A volte nello scrivere una tesi di laurea (scientifica) si pensa che lo stile debba essere adeguato e sufficientemente solenne. Sbagliato. Lo stile per una tesi di laurea deve essere semplice. Purché non sia infantile lo stile deve essere semplice e chiaro. Evitare termini ampollosi e troppo aulici che risulteranno innaturali e creeranno l'effetto opposto di quello desiderato: faranno risultare il testo ridicolo.\\
+Ad esempio non scrivere:\\
+\newline
+\indent \emph{molti sono stati gli studi che hanno investigato la differenza...}\\
+\newline
+meglio il più naturale:\\
+\newline
+\indent \emph{molti studi hanno investigato la differenza ...}\\
+\newline
+Stessa ragionamento vale per la scelta dei termini. Se esiste un termine semplice per esprimere qualcosa, non cercare il termine insolito o più aulico. I sinonimi vanno bene per evitare ripetizioni, ma invece di usare \emph{acciocché} meglio usare \emph{al fine di}.
+
+\section{Evita i colpi di scena}
+Nello scrivere una tesi a volte si ha la tendenza di non rivelare il risultato per mantenere viva l'attenzione del lettore. Sbagliato. Molto spesso è meglio anticipare subito il risultato o la conclusione, in modo da guidare il lettore nell'argomentazione. Se il lettore non capisce dove si vuole andare a parare può perdere interesse nella lettura, che può risultare più difficoltosa.
+
+
+\section{Evita frasi passive, evita nominalizzazioni}
+Il testo risulta più semplice da leggere se non ci sono frasi passive. Se possibile, cercare di trasformare le frasi in attive, e limite l'uso delle passive al minimo. Frasi attive sono più semplici e scorrevoli da leggere. Ad esempio, invece di:\\\newline
+\indent \emph{i tempi di reazione sono stati influenzati TMS.}\\\newline
+è meglio \\\newline
+\indent \emph{la TMS ha influenzato i tempi di reazione.}\\\newline
+
+ Un'eccezione è rappresentato nel caso di articoli o tesi scritte da una sola persona è però più indicato usare l'impersonale. Ad esempio: \\\newline
+\indent \emph{I dati sono stati analizzati tramite un'ANOVA.}\\\newline
+Se però gli autori sono più di uno: \\\newline
+\indent \emph{Abbiamo analizzato i dati tramite un'ANOVA.}\\
+
+Meglio vitare anche le nominalizzazioni, cioè l'utilizzo di un nome invece di un verbo. Per esempio invece di: \\\newline
+\indent \emph{la TMS ha determinato un rallentamento nei tempi di reazione.}\\\newline
+meglio il più naturale \\\newline
+\indent \emph{la TMS ha rallentato i tempi di reazione}.
+
+
+\section{Ogni tanto, nel testo, fare il punto della situazione}
+Ogni tanto, specie a fine di un paragrafo, è molto utile fare un \oq punto della situazione \cq, per riassumere brevemetne il contenuto del paragrafo. Questo aiuta il lettore a mettere ordine nelle informazioni che ha letto e lo aiuta a capire, come mentalmente può riassumere quanto appena letto. Mettere dei piccoli sunti aiuta anche nella scrittura perché costringe a schematizzare e focalizzarsi sugli aspetti principali, portando ad una maggiore consapevolezza di quanto si ha appena scritto. 
+
+
+\section{Semplifica}
+Nel testo è sempre meglio cercare di semplificare il più possibile. Nelle fasi di rilettura è sempre bene chiedersi: Potrei semplificare questa frase? Se la risposta è s\'i, allora procedi senza esituazione a semplificare. Non spaventarti a togliere parole. Se una parola non aggiunge niente di informativo al testo, allora è meglio toglierla, renderà solo più difficoltosa la lettura.
+
+\section{Inserire citazioni e bibliografia nella tesi}
+
+
+
+\end{document}

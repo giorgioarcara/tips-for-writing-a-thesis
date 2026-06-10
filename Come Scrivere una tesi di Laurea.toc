@@ -1,0 +1,19 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {section}{\numberline {0.1}Introduzione}{4}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Ricerca bibliografica}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Conoscere le parole chiave}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Partire da review}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Utilizzo di LLM per ricerca letteratura}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Recuperare i files degli articoli}{6}{section.1.4}%
+\contentsline {chapter}{\numberline {2}La scrittura della Tesi}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Prima di cominciare scrivere}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Non aspettare troppo prima di cominciare a scrivere}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Scrivere, Ricontrollare, Riscrivere, Ricontrollare, ...}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Coerenza nel presentare le informazioni}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Semplicità nello stile}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Evita i colpi di scena}{11}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Evita frasi passive, evita nominalizzazioni}{11}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Ogni tanto, nel testo, fare il punto della situazione}{12}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Semplifica}{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Inserire citazioni e bibliografia nella tesi}{13}{section.2.10}%
