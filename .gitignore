@@ -137,3 +137,5 @@ _minted-*/     # minted temp directory
 # --- OS noise ---
 .DS_Store
 Thumbs.db
+
+CLAUDE.md
