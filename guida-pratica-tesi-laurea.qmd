@@ -10,9 +10,27 @@ format:
   pdf:
     toc: true
     documentclass: book
+    classoption: oneside
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \fancyfoot[C]{\thepage}
+        \renewcommand{\headrulewidth}{0pt}
+language:
+  title-block-author-single: "Autore"
 ---
 
-![Licenza CC 3.0](Figures/CC_license_3_0.png){width=3cm}
+![](Figures/CC_license_3_0.png){width=3cm}
+
+Quest'opera è rilasciata sotto licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). È consentita la riproduzione, distribuzione e adattamento del materiale per qualsiasi scopo, anche commerciale, purché venga attribuita la paternità dell'opera all'autore originale.
+
+::: {.content-visible when-format="html"}
+<a href="guida-pratica-tesi-laurea.pdf" download class="btn btn-primary" style="display:inline-flex;align-items:center;gap:0.4em;margin-bottom:1.5em;">
+  <i class="bi bi-file-earmark-pdf"></i> Scarica PDF
+</a>
+:::
 
 # Introduzione
 
@@ -66,6 +84,7 @@ Al tempo di scrittura di questo paragrafo (10/11/2025), gli LLM possono infatti 
 
 L'utilizzo corretto è dunque rivolgere domande anche vaghe agli LLM ma poi includere nella tesi soltanto informazioni verificate negli articoli e non basarsi su informazioni riportate direttamente dal LLM.
 In nessun caso utilizzate «citazioni» (es. *Smith et al., 2022. A handbook on clinical neuropsychology, Springer*) perché anche queste possono essere completamente inventate.
+
 
 ## Recuperare i files degli articoli
 
@@ -230,6 +249,17 @@ Ogni tanto, specie a fine di un paragrafo, è molto utile fare un «punto della 
 ## Semplificare
 
 Nel testo è sempre meglio cercare di semplificare il più possibile. Nelle fasi di rilettura è sempre bene chiedersi: Potrei semplificare questa frase? Se la risposta è sì, allora procedi senza esitazione a semplificare. Non spaventarti a togliere parole. Se una parola non aggiunge niente di informativo al testo, allora è meglio toglierla, renderà solo più difficoltosa la lettura.
+
+## Utilizzo di LLM per revisione del testo
+
+Usare un LLM (ChatGPT, [Gemini](https://gemini.google.com), [Claude](https://claude.ai), ecc.) per revisionare e migliorare la fluidità del testo è da me accettato (e anche da linee guida di Ateneo). Può essere utile per snellire frasi complesse, correggere errori grammaticali o rendere il testo più scorrevole.  È inoltre raccomandato per notare typos o in generale altri errori che possono sfuggire dopo avere letto molte volte un testo (es. una frase lasciata a metà.)
+
+**Non è invece accettabile usare un LLM per definire il contenuto**: la scaletta, gli argomenti da trattare, le inferenze e le conclusioni devono venire da te (vedi la sezione precedente sull'utilizzo degli LLM per la ricerca).
+
+Alcuni avvertimenti pratici:
+
+- **Rileggi sempre il testo revisionato.** Gli LLM tendono a introdurre uno stile artificioso e ripetitivo, che un lettore esperto riconosce facilmente. Un testo che suona «scritto da un'AI» penalizza la valutazione della tesi.
+- **Attenzione ai segnali tipici dello stile LLM**: uso frequente dell'em-dash (—) al posto della virgola o del punto e virgola, strutture del tipo «non solo… ma anche…», frasi che iniziano con «È importante sottolineare che», toni eccessivamente enfatici o troppo equilibrati. Se noti queste caratteristiche nel testo revisionato, riscrivile con parole tue e correggi secondo i tuoi gusti.
 
 ## Inserire citazioni e bibliografia nella tesi
 
