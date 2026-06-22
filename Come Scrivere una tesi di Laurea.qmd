@@ -16,11 +16,21 @@ format:
 
 # Introduzione
 
+Questa guida è rivolta a studentesse e studenti che stanno per iniziare, o hanno già iniziato, a scrivere la tesi di laurea. L'obiettivo non è fornire regole assolute ma suggerimenti pratici che possono fare la differenza nella qualità del testo. I consigli qui riportati valgono in generale per qualsiasi testo scientifico.
+
 # Ricerca bibliografica
 
 ## Conoscere le parole chiave
 
 Il primo passo per cercare della letteratura scientifica è quello di conoscere le parole chiave corrette per l'argomento. Queste possono essere trovate insieme al relatore all'inizio e man mano che si sviluppa una conoscenza dell'argomento diventeranno di più e più ricche.
+
+## Dove cercare
+
+I principali strumenti per la ricerca bibliografica sono due: **[Google Scholar](https://scholar.google.com)** e **[PubMed](https://pubmed.ncbi.nlm.nih.gov)**.
+
+**[Google Scholar](https://scholar.google.com)** è il punto di partenza più comodo: indicizza una grande quantità di articoli scientifici, tesi e libri. Attenzione però ai **preprint** (ad esempio quelli su [bioRxiv](https://www.biorxiv.org) o [PsyArXiv](https://psyarxiv.com)): sono lavori non ancora sottoposti a revisione paritaria e i cui risultati potrebbero non essere confermati. Il mio suggerimento non è di non utilizzare queste fonti, ma solo di considerare che non hanno ancora passato il processo di peer-review.
+
+**[PubMed](https://pubmed.ncbi.nlm.nih.gov)** è la banca dati di riferimento per le scienze biomediche. I risultati sono tutti articoli peer-reviewed, quindi più affidabili da questo punto di vista, ma la copertura è più limitata rispetto a Scholar.
 
 ## Partire da review
 
@@ -30,9 +40,27 @@ Quando si comincia a studiare un argomento nuovo è buona norma partire da revie
 la ricerca della letteratura andrà fatta più volte durante la scrittura della tesi, anche sulla base di nuove conoscenze, evidenze, che emergeranno nel corso dello studio o discussioni (o lettura di articoli che emergono durante la prima ricerca).
 :::
 
+## Come valutare un articolo
+
+Non tutti gli articoli hanno lo stesso peso. Alcuni criteri utili per valutarne la qualità:
+
+- **Peer review**: preferire sempre articoli pubblicati su riviste con revisione paritaria.
+- **Rivista**: le riviste con alto impact factor sono generalmente più selettive, ma non è l'unico criterio. Conta anche la reputazione nel proprio campo.
+- **Predatory journals**: esistono riviste che pubblicano qualsiasi lavoro dietro pagamento, senza una reale revisione. Se il nome di una rivista è sconosciuto, vale la pena verificarne la reputazione.
+
+In caso di dubbio, chiedere al relatore.
+
+## Organizzare la letteratura: software di gestione bibliografica
+
+Raccogliere articoli in una cartella di PDF non è una strategia. È molto più efficiente usare un **software di gestione bibliografica**, che permette di organizzare gli articoli, aggiungere note e generare automaticamente la bibliografia nella tesi.
+
+Il più consigliato è **[Zotero](https://www.zotero.org)**: è gratuito, open source, e si integra con Word, LibreOffice e LaTeX. Permette di salvare gli articoli direttamente dal browser con un click e di inserire citazioni nel testo in modo automatico.
+
+Alternative: [Mendeley](https://www.mendeley.com) (gratuito ma con più limitazioni).
+
 ## Utilizzo di LLM per ricerca letteratura
 
-Gli LLM (cioè Large Language Models), come ChatGPT o Gemini, possono essere un valido aiuto per la letteratura. **La mia raccomandazione è di usarli per cercare articoli ma non per cercare informazioni** o solo citazioni.
+Gli LLM (cioè Large Language Models), come [ChatGPT](https://chatgpt.com) o [Gemini](https://gemini.google.com), possono essere un valido aiuto per la letteratura. **La mia raccomandazione è di usarli per cercare articoli ma non per cercare informazioni** o solo citazioni.
 Gli LLM sono particolarmente utili per ampliare il campo di ricerca o scoprire nuove aree di letteratura rilevante, magari molto rilevanti ma lontane dalle parole chiave che utilizzereste per la ricerca di informazioni. Gli LLM possono essere anche usati per individuare i lavori o concetti rilevanti.
 Al tempo di scrittura di questo paragrafo (10/11/2025), gli LLM possono infatti fornire informazioni inesatte o addirittura completamente inventate anche se verosimili (in termini tecnici queste risposte sbagliate si chiamano «hallucinations»).
 
@@ -40,6 +68,69 @@ L'utilizzo corretto è dunque rivolgere domande anche vaghe agli LLM ma poi incl
 In nessun caso utilizzate «citazioni» (es. *Smith et al., 2022. A handbook on clinical neuropsychology, Springer*) perché anche queste possono essere completamente inventate.
 
 ## Recuperare i files degli articoli
+
+Molti articoli sono accessibili gratuitamente. Prima di arrendersi:
+
+- Verificare se l'università fornisce accesso istituzionale (spesso sì, tramite VPN o portale di ateneo).
+- Cercare una versione open access su **[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/)** <!--o tramite l'estensione **[Unpaywall](https://unpaywall.org)** per il browser.-->
+- Cercare il titolo su [Google Scholar](https://scholar.google.com): spesso esiste un PDF liberamente disponibile.
+- Contattare direttamente gli autori via **[ResearchGate](https://www.researchgate.net)** o email: la risposta positiva è molto frequente.
+
+::: {.callout-note title="Nota"}
+Sci-Hub permette di scaricare articoli aggirando i paywall, ma opera in violazione del diritto d'autore ed è illegale in molti paesi.
+:::
+
+# Struttura della tesi
+
+## La struttura tipica
+
+La struttura della tesi varia a seconda del tipo. Una tesi **compilativa** consiste principalmente in una rassegna della letteratura su un tema; una tesi **sperimentale** include anche la raccolta e l'analisi di dati originali.
+
+Per una tesi sperimentale, la struttura tipica è:
+
+1. Abstract
+2. Introduzione
+3. Metodi
+4. Risultati
+5. Discussione
+6. Conclusioni (a volte incluse nella discussione)
+7. Bibliografia
+
+Una tesi compilativa non ha i capitoli Metodi e Risultati, ma può avere più capitoli teorici.
+
+## L'abstract
+
+L'abstract è un riassunto dell'intera tesi, tipicamente di 150-300 parole. Deve contenere: il problema studiato, gli obiettivi, i metodi, i risultati principali e le conclusioni. È spesso l'ultima cosa che si scrive, ma la prima che il lettore legge.
+
+## L'introduzione
+
+L'introduzione ha lo scopo di portare il lettore dal contesto generale al problema specifico della tesi. Una struttura efficace va **dall'ampio al ristretto**: si parte dall'inquadramento generale dell'argomento, si restringe progressivamente alle questioni rilevanti, e si conclude con gli obiettivi specifici dello studio.
+
+L'ultima parte dell'introduzione deve rendere chiaro al lettore **perché questo studio è stato fatto** e **cosa ci si aspettava di trovare**.
+
+## I metodi
+
+Il capitolo dei metodi deve essere scritto con un livello di dettaglio sufficiente a permettere a un altro ricercatore di **replicare lo studio**. Questo è il criterio guida. Includere: i partecipanti (criteri di inclusione ed esclusione, caratteristiche demografiche), i materiali e gli strumenti utilizzati, la procedura, e le analisi statistiche.
+
+## I risultati
+
+Nel capitolo dei risultati si riportano i dati, senza interpretarli. L'interpretazione va nella discussione. Ogni risultato riportato nel testo deve essere supportato da statistiche; ogni tabella e ogni figura devono essere richiamate nel testo.
+
+## La discussione
+
+La discussione interpreta i risultati e li colloca nel contesto della letteratura. Una struttura efficace:
+
+1. Riassumere brevemente i risultati principali.
+2. Confrontare con la letteratura: cosa confermano o contraddicono i tuoi risultati?
+3. Spiegare i risultati inaspettati, senza ignorarli.
+4. Discutere i **limiti dello studio**.
+5. Indicare possibili sviluppi futuri.
+
+Evitare di ripetere i risultati in modo esteso: la discussione deve aggiungere interpretazione, non semplicemente ripetere.
+
+## Le conclusioni
+
+Le conclusioni sono brevi (pochi paragrafi). Riprendono i punti essenziali dell'abstract e aggiungono, se necessario, le implicazioni pratiche o teoriche del lavoro. Non devono introdurre nuovi argomenti.
 
 # La scrittura della Tesi
 
@@ -136,8 +227,51 @@ meglio il più naturale:
 
 Ogni tanto, specie a fine di un paragrafo, è molto utile fare un «punto della situazione», per riassumere brevemente il contenuto del paragrafo. Questo aiuta il lettore a mettere ordine nelle informazioni che ha letto e lo aiuta a capire come mentalmente può riassumere quanto appena letto. Mettere dei piccoli sunti aiuta anche nella scrittura perché costringe a schematizzare e focalizzarsi sugli aspetti principali, portando ad una maggiore consapevolezza di quanto si ha appena scritto.
 
-## Semplifica
+## Semplificare
 
 Nel testo è sempre meglio cercare di semplificare il più possibile. Nelle fasi di rilettura è sempre bene chiedersi: Potrei semplificare questa frase? Se la risposta è sì, allora procedi senza esitazione a semplificare. Non spaventarti a togliere parole. Se una parola non aggiunge niente di informativo al testo, allora è meglio toglierla, renderà solo più difficoltosa la lettura.
 
 ## Inserire citazioni e bibliografia nella tesi
+
+Le citazioni vanno inserite idealmente dopo ogni affermazione che non sia un'opinione oppure un'ipotesi o un'iferenza. Per esempio, la frase "Lo stroke è una delle principali cause di disabilità nell'età adulta", dovrebbe essere accompagnata da una citazione a supporto.
+
+## Figure e tabelle
+
+Figure e tabelle non si commentano da sole: ogni figura e ogni tabella deve essere **citata nel testo** (es. «come mostrato in Figura 1»). La didascalia deve essere esaustiva: il lettore deve capire cosa mostra la figura senza dover leggere il testo circostante.
+
+Usare una **figura** quando si vuole mostrare un andamento, una distribuzione o un confronto visivo. Usare una **tabella** quando i valori esatti sono importanti o quando ci sono molti dati da confrontare.
+
+## Numeri e statistiche nel testo
+
+Quando si riportano risultati statistici, includere sempre il valore del test, i gradi di libertà e il p-value. Ad esempio:
+
+> *La TMS ha rallentato significativamente i tempi di reazione (t(28) = 3.4, p = .002).*
+
+Usare un numero fisso di cifre decimali in modo coerente. Per convenzione, i valori di p si riportano con tre cifre decimali (es. p = .034), tranne quando sono molto piccoli (es. p < .001).
+
+I numeri da uno a nove si scrivono in lettere; da 10 in poi si usano le cifre. Fanno eccezione i valori statistici e le misure, che si scrivono sempre in cifre.
+
+## La formattazione
+
+Ogni ateneo ha le proprie norme per la formattazione della tesi (font, margini, interlinea, frontespizio). Verificare le indicazioni della propria segreteria studenti **prima** di iniziare a scrivere, per non dover riformattare tutto alla fine.
+
+Se non ci sono indicazioni specifiche, una formattazione standard è: font serif 12pt (es. Times New Roman), interlinea 1.5, margini di 2.5 cm.
+
+## Come lavorare col relatore
+
+Inviare al relatore bozze troppo brevi o incomplete è spesso controproducente. Come regola pratica:
+
+- Per ricevere feedback sullo **stile** (tono, chiarezza, forma delle frasi), è sufficiente inviare almeno 2-3 paragrafi ben sviluppati.
+- Per ricevere feedback sul **flow** (struttura logica, coerenza tra le parti, completezza), è necessario inviare almeno un capitolo completo.
+
+Tenere presente che i tempi di risposta del relatore possono variare. Pianificare di conseguenza, inviando le bozze con anticipo rispetto alle scadenze.
+
+# Plagio e originalità
+
+Il plagio è l'utilizzo di testo, idee o dati altrui senza la dovuta attribuzione. In ambito accademico è una violazione grave. Non si limita alla copia letterale: anche **parafrasare senza citare** la fonte è plagio.
+
+La regola pratica è semplice: ogni affermazione che non sia frutto di ragionamento diretto o conclusione dello studio deve avere una citazione. In caso di dubbio, cita.
+
+Attenzione anche all'**auto-plagio**: se stai rielaborando testo che hai già consegnato (es. una relazione), è bene dichiararlo.
+
+Molti atenei utilizzano software antiplagio (es. [Turnitin](https://www.turnitin.com)) per controllare le tesi prima della discussione. Un tasso di similarità alto non indica necessariamente plagio (dipende da come sono gestite le citazioni), ma è meglio non scoprirlo all'ultimo momento.
