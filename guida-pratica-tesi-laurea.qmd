@@ -1,5 +1,5 @@
 ---
-title: "Breve guida su come scrivere una tesi di Laurea"
+title: "Guida pratica alla scrittura della tesi di laurea"
 subtitle: "(o un testo scientifico)"
 author: "Giorgio Arcara"
 date: today
