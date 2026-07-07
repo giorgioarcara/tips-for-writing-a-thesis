@@ -306,4 +306,5 @@ La regola pratica è semplice: ogni affermazione che non sia frutto di ragioname
 
 Attenzione anche all'**auto-plagio**: se stai rielaborando testo che hai già consegnato (es. una relazione), è bene dichiararlo.
 
-Molti atenei utilizzano software antiplagio (es. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/)) per controllare le tesi prima della discussione. Un tasso di similarità alto non indica necessariamente plagio (dipende da come sono gestite le citazioni), ma è meglio non scoprirlo all'ultimo momento.
+Molti atenei utilizzano software antiplagio (es. [Turnitin](https://www.turnitin.com)) per controllare le tesi prima della discussione. Un tasso di similarità alto non indica necessariamente plagio (dipende da come sono gestite le citazioni), ma è meglio non scoprirlo all'ultimo momento.
+Una possibilità è fare un check del proprio lavoro tramite software gratuti per identificare plagio (es. (es. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/)))

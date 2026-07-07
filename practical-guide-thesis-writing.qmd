@@ -305,4 +305,4 @@ The practical rule is simple: every statement that is not the product of your ow
 Be aware of **self-plagiarism** as well: if you are reworking text you have already submitted (e.g., a course paper), it is good practice to declare it.
 
 Many universities use anti-plagiarism software (e.g., [Turnitin](https://www.turnitin.com)) to check theses before the defence. A high similarity score does not necessarily indicate plagiarism (it depends on how citations are handled), but it is better not to discover this at the last moment.
-A possibility is to use a free plagiarism check software (e.g. (es. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/)))
+A possibility is to use a free plagiarism check software (e.g. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/))
