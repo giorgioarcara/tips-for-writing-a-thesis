@@ -52,9 +52,13 @@ I principali strumenti per la ricerca bibliografica sono due: **[Google Scholar]
 
 **[PubMed](https://pubmed.ncbi.nlm.nih.gov)** è la banca dati di riferimento per le scienze biomediche. I risultati sono tutti articoli peer-reviewed, quindi più affidabili da questo punto di vista, ma la copertura è più limitata rispetto a Scholar.
 
-## Partire da review
+## Partire da review per approfondire con articoli specifici
 
-Quando si comincia a studiare un argomento nuovo è buona norma partire da review.
+Quando si comincia a studiare un argomento nuovo è buona norma partire da una _review_.
+Le review possono essere di diverso tipo. I principali tipi sono _review narrative_ e _review sistematiche_.
+Le seconde sono più rigorose e meno inclini a bias. Per tale motivo, se disponibili, sono da preferire.
+
+Dalle review possono essere trovati anche _articoli specifici_ di interesse, che andranno letti approfonditamente.
 
 ::: {.callout-note title="Nota"}
 la ricerca della letteratura andrà fatta più volte durante la scrittura della tesi, anche sulla base di nuove conoscenze, evidenze, che emergeranno nel corso dello studio o discussioni (o lettura di articoli che emergono durante la prima ricerca).
@@ -62,13 +66,26 @@ la ricerca della letteratura andrà fatta più volte durante la scrittura della 
 
 ## Come valutare un articolo
 
-Non tutti gli articoli hanno lo stesso peso. Alcuni criteri utili per valutarne la qualità:
+Non tutti gli articoli hanno lo stesso peso. Alcuni criteri utili, anche se superficiali, per valutarne la qualità:
 
 - **Peer review**: preferire sempre articoli pubblicati su riviste con revisione paritaria.
 - **Rivista**: le riviste con alto impact factor sono generalmente più selettive, ma non è l'unico criterio. Conta anche la reputazione nel proprio campo.
 - **Predatory journals**: esistono riviste che pubblicano qualsiasi lavoro dietro pagamento, senza una reale revisione. Se il nome di una rivista è sconosciuto, vale la pena verificarne la reputazione.
 
 In caso di dubbio, chiedere al relatore.
+
+## Come leggere un articolo
+
+Non bisogna necessariamente leggere ogni articolo dall'inizio alla fine: sarebbe troppo dispendioso in termini di tempo.
+
+All'inizio della scrittura della tesi o quando si comincia a trattare un argomento poco noto è utile leggere gli articoli dall'inizio alla fine, per cominciare a familiarizzare con gli elementi principali (citazioni che tendono a ricorrere, problemi che sono considerati sempre cruciali, etc.). Gradualmente si può scorrere velocemente l'introduzione (che tenderà ad essere un po' ripetitiva o prevedibile) e concentrarsi più su metodo, risultati e discussione.
+
+Una buona strategia è quella di partire innanzitutto leggendo attentamente titolo e abstract. Se sono interessanti, si può passare al resto (introduzione, metodi e risultati). Altrimenti talvolta conviene non approfondire quello specifico articolo e concentrarsi su altri articoli più rilevanti.
+In generale è importante imparare a gestire in maniera strategica il tempo a disposizione per la lettura della letteratura, perché leggere tutti gli articoli in maniera approfondita è quasi sempre impossibile.
+
+::: {.callout-note title="Nota"}
+La strategia di lettura degli articoli, per quanto dovrebbe essere focalizzata su quelli più "utili", non dovrebbe però escludere del tutto e sempre le cose non strettamente necessarie. Il rischio è, infatti, quello di leggere solo articoli che confermano le proprie ipotesi o che non permettono di arricchire le proprie prospettive.
+:::
 
 ## Organizzare la letteratura: software di gestione bibliografica
 
@@ -189,7 +206,8 @@ Un aspetto importante che si può già cominciare a vedere è il mantenimento di
 
 ## Non aspettare troppo prima di cominciare a scrivere
 
-Anche se avere una struttura aiuta, un errore comunissimo nello scrivere è quello di aspettare di essere pienamente convinti prima di scrivere. Questo è la causa principale del «blocco dello scrittore». Se una prima frase non ci convince del tutto di primo acchito, aspettiamo a scriverla. Assolutamente sbagliato. Sempre meglio scrivere di getto, senza preoccuparsi che tutto sia perfetto subito. La strategia vincente è scrivere senza porsi troppi problemi e piuttosto ricontrollare tante volte. Sarà comunque necessario ricontrollare una o più volte.
+Anche se avere una struttura aiuta, un errore comunissimo nello scrivere è quello di aspettare di essere pienamente convinti prima di scrivere. Questo è la causa principale del «blocco dello scrittore». Se una prima frase non ci convince del tutto di primo acchito, aspettiamo a scriverla. Questo approccio, molto diffuso, non è quasi mai una strategia vantaggiosa. È infatti meglio scrivere di getto, senza preoccuparsi che tutto sia perfetto subito, perché bisogna considerare che è sempre necessario rileggere, possibilmente più volte. 
+Questo è specificato nel prossimo paragrafo.
 
 ## Scrivere, Ricontrollare, Riscrivere, Ricontrollare, ...
 
@@ -298,7 +316,7 @@ Inviare al relatore bozze troppo brevi o incomplete è spesso controproducente. 
 
 Tenere presente che i tempi di risposta del relatore possono variare. Pianificare di conseguenza, inviando le bozze con anticipo rispetto alle scadenze.
 
-# Plagio e originalità
+## Plagio e originalità
 
 Il plagio è l'utilizzo di testo, idee o dati altrui senza la dovuta attribuzione. In ambito accademico è una violazione grave. Non si limita alla copia letterale: anche **parafrasare senza citare** la fonte è plagio.
 
@@ -308,3 +326,16 @@ Attenzione anche all'**auto-plagio**: se stai rielaborando testo che hai già co
 
 Molti atenei utilizzano software antiplagio (es. [Turnitin](https://www.turnitin.com)) per controllare le tesi prima della discussione. Un tasso di similarità alto non indica necessariamente plagio (dipende da come sono gestite le citazioni), ma è meglio non scoprirlo all'ultimo momento.
 Una possibilità è fare un check del proprio lavoro tramite software gratuti per identificare plagio (es. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/))
+
+
+
+## Riferimenti
+
+Questa tesi è ispirata principalmente ai seguenti testi e riferimenti (per quanto si basi perlopiù su considerazioni)
+
+- Eco U. Come scrivere una tesi di laurea. Bompiani.
+_un testo storico su come scrivere una tesi di Laurea (in Italiano)_
+
+- Sainani  K. Scientific writing [youtube course](https://www.youtube.com/watch?v=x33Km7hRzP0&list=PL8yeejfiNxNBT2rTomRjmWNlgh4DBmHST)
+_un utilissimo corso online che spiega molti elementi fondamentali di scientific writing citati in questa guida._
+
