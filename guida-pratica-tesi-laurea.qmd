@@ -166,9 +166,26 @@ La discussione interpreta i risultati e li colloca nel contesto della letteratur
 
 Evitare di ripetere i risultati in modo esteso: la discussione deve aggiungere interpretazione, non semplicemente ripetere.
 
+### inserire il proprio contributo personale
+Nella tesi, ma specialmente, nelle tesi _bibliografiche_ è atteso un proprio contributo personale nell'elaborato. Questo è diventato ancora più rilevante adesso nell'era degli LLM, che permettono rapidamente di fare sintesi dei materiali rilevanti e anche recuperare citazioni e referenze. 
+In questo contesto, è quindi fondamentale che la tesi non consista solo in una raccolta e sintesi di informazioni, ma anche un lavoro originale che rifletta il pensiero critico e le riflessioni personali dello studente.
+
+Di seguito sono fornite alcuni spunti che potrebbero essere utili riportare e che si potrebbero considerare appunto come contributo personale:
+
+- Quali sono aree ancora inesplorate sebbene rilevanti? Come potrebbe la ricerca scientifica esplorare ulteriormente queste aree?
+- Quali sono alcuni argomenti critici da un punto di vista concettuale o etico? Come si potrebbero esplorare? 
+- Ci sono delle contraddizioni nelle teorie presentate? Si potrebbero risolvere? Quali esperimenti potrebbero dirimere eventuali questioni presenti?
+- Ci sono limiti metodologici negli studi presentati? Come potrebbero essere superati? 
+
+In generale, è importante inserire degli spunti di riflessione (anche se speculativi), che mostrino il contributo e le proprie idee personali nella tesi.
+
+::: {.callout-note title="Contributo nelle tesi"}
+Nelle tesi, specie quelle _bibliografiche_ ci si attende sempre che non sia presente solo una disamina, ma anche delle considerazioni, spunti, riflessioni, personale.
+:::
+
 ## Le conclusioni
 
-Le conclusioni sono brevi (pochi paragrafi). Riprendono i punti essenziali dell'abstract e aggiungono, se necessario, le implicazioni pratiche o teoriche del lavoro. Non devono introdurre nuovi argomenti.
+Le conclusioni sono brevi (pochi paragrafi). Riprendono i punti essenziali dell'abstract e aggiungono, se necessario, le implicazioni pratiche o teoriche del lavoro. Non devono introdurre nuovi argomenti. È un paragrafo opzionale, utile soprattutto se le discussioni sono molto lunghe.
 
 # La scrittura della Tesi
 
