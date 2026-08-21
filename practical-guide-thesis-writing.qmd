@@ -53,6 +53,10 @@ The two main tools for bibliographic research are: **[Google Scholar](https://sc
 ## Start with Review Articles
 
 When beginning to study a new topic, it is good practice to start with review articles.
+Reviews can be of different types. The main types are _narrative reviews_ and _systematic reviews_.
+The latter are more rigorous and less prone to bias, and for this reason are preferable when available.
+
+Specific articles of interest can also be found through reviews, and should then be read in depth.
 
 ::: {.callout-note title="Note"}
 The literature search will need to be repeated several times during the writing of the thesis, also based on new knowledge and evidence that emerges in the course of study, discussions, or from reading articles found during an initial search.
@@ -67,6 +71,19 @@ Not all articles carry the same weight. Some useful criteria for assessing quali
 - **Predatory journals**: there are journals that publish any work for a fee, without genuine peer review. If a journal name is unfamiliar, it is worth verifying its reputation.
 
 When in doubt, ask your supervisor.
+
+## How to Read an Article
+
+You do not necessarily need to read every article from start to finish: that would be far too time-consuming.
+
+At the start of writing your thesis, or when you begin dealing with an unfamiliar topic, it is useful to read articles from start to finish, to start becoming familiar with the main elements (citations that tend to recur, issues that are always considered crucial, etc.). Gradually, you can skim the introduction more quickly (which will tend to be somewhat repetitive or predictable) and focus more on the methods, results, and discussion.
+
+A good strategy is to start by carefully reading the title and abstract. If they are interesting, you can move on to the rest (introduction, methods, and results). Otherwise, it is sometimes better not to delve further into that specific article and to focus on other, more relevant articles.
+In general, it is important to learn to manage strategically the time available for reading the literature, because reading every article in depth is almost always impossible.
+
+::: {.callout-note title="Note"}
+The strategy of reading articles, while it should be focused on the most "useful" ones, should not entirely and always exclude things that are not strictly necessary. The risk, in fact, is reading only articles that confirm your own hypotheses or that do not allow you to enrich your perspective.
+:::
 
 ## Organising the Literature: Reference Management Software
 
@@ -147,9 +164,27 @@ The Discussion interprets the results and places them in the context of the lite
 
 Avoid repeating the results at length: the Discussion must add interpretation, not simply reiterate what was already reported.
 
+### Include Your Own Personal Contribution
+
+In a thesis, but especially in _literature review_ theses, a personal contribution is expected from the author. This has become even more relevant now in the era of LLMs, which allow you to quickly summarise relevant materials and even retrieve citations and references.
+In this context, it is therefore essential that the thesis does not consist only of a collection and summary of information, but is also an original piece of work that reflects the student's critical thinking and personal reflections.
+
+Below are some suggestions that could be useful to include, and that could be considered a personal contribution:
+
+- What areas remain unexplored despite being relevant? How could scientific research further explore these areas?
+- What are some critical issues from a conceptual or ethical standpoint? How could they be explored?
+- Are there contradictions in the theories presented? Could they be resolved? What experiments could settle any open questions?
+- Are there methodological limitations in the studies presented? How could they be overcome?
+
+In general, it is important to include points for reflection (even if speculative), which show the student's own contribution and personal ideas within the thesis.
+
+::: {.callout-note title="Personal Contribution"}
+In theses, especially _literature review_ theses, it is always expected that there be not only an examination of the literature, but also personal considerations, insights, and reflections.
+:::
+
 ## Conclusions
 
-The Conclusions section is brief (a few paragraphs). It revisits the key points from the abstract and adds, where necessary, the practical or theoretical implications of the work. It must not introduce new arguments.
+The Conclusions section is brief (a few paragraphs). It revisits the key points from the abstract and adds, where necessary, the practical or theoretical implications of the work. It must not introduce new arguments. It is an optional paragraph, especially useful when the discussion is very long.
 
 # Writing the Thesis
 
@@ -296,7 +331,7 @@ Sending your supervisor drafts that are too short or incomplete is often counter
 
 Bear in mind that your supervisor's response time may vary. Plan accordingly, and send drafts well in advance of deadlines.
 
-# Plagiarism and Originality
+## Plagiarism and Originality
 
 Plagiarism is the use of another person's text, ideas, or data without proper attribution. In academia it is a serious violation. It is not limited to verbatim copying: **paraphrasing without citing** the source is also plagiarism.
 
@@ -306,3 +341,15 @@ Be aware of **self-plagiarism** as well: if you are reworking text you have alre
 
 Many universities use anti-plagiarism software (e.g., [Turnitin](https://www.turnitin.com)) to check theses before the defence. A high similarity score does not necessarily indicate plagiarism (it depends on how citations are handled), but it is better not to discover this at the last moment.
 A possibility is to use a free plagiarism check software (e.g. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/))
+
+
+
+## References
+
+This guide is mainly inspired by the following texts and references (although it is largely based on personal considerations)
+
+- Eco U. Come scrivere una tesi di laurea. Bompiani.
+_a classic text on how to write a thesis (in Italian)_
+
+- Sainani K. Scientific writing [YouTube course](https://www.youtube.com/watch?v=x33Km7hRzP0&list=PL8yeejfiNxNBT2rTomRjmWNlgh4DBmHST)
+_a very useful online course explaining many of the fundamental elements of scientific writing referenced in this guide._
