@@ -346,7 +346,41 @@ Una possibilità è fare un check del proprio lavoro tramite software gratuti pe
 
 
 
-## Riferimenti
+# Suggerimenti per la presentazione finale
+
+La presentazione finale della tesi è un momento distinto dalla tesi scritta, con regole proprie, e il tempo a disposizione varia a seconda del tipo di laurea. Per le **tesi triennali** sono tipicamente previsti 5 minuti di presentazione e 5 minuti di discussione con la commissione; per le **tesi quinquennali/magistrali** sono invece previsti in genere 10 minuti di presentazione e 5 di discussione. È bene verificare comunque i tempi esatti previsti dal proprio ateneo o corso di laurea, perché possono variare.
+
+## Suggerimenti generali
+
+Una buona regola pratica è pensare a **circa una slide per minuto** di tempo a disposizione per la presentazione: con 5 minuti è difficile gestire bene più di 5-6 slide, con 10 minuti più di 10-12.
+
+Il testo su ogni slide dovrebbe essere ridotto al minimo: una slide non è un documento da leggere, ma una traccia che aiuta chi parla a seguire il filo del discorso e chi ascolta a orientarsi. Frasi lunghe, elenchi fitti o paragrafi interi sono da evitare: meglio poche parole chiave, un titolo chiaro, un dato saliente.
+
+Le figure e le immagini, quando ben scelte, comunicano più e più in fretta di un paragrafo di testo, e aiutano a catturare l'attenzione di chi ascolta. Per crearle si possono anche utilizzare strumenti di intelligenza artificiale generativa (LLM), purché senza abusarne: un'immagine deve essere pertinente e chiara, non semplicemente decorativa.
+
+Infine, è importante resistere alla tentazione di inserire nella presentazione tutto il lavoro svolto nella tesi. Nella discussione finale viene valutata soprattutto la capacità di **sintesi**: scegliere cosa raccontare, cosa tralasciare, e come presentare le informazioni essenziali nel tempo a disposizione è parte integrante della prova.
+
+## Struttura della presentazione
+
+Una struttura tipica per la presentazione di una tesi sperimentale, pensata per una tesi quinquennale/magistrale (10 minuti), può essere:
+
+1. Titolo, autore, relatore (1 slide)
+2. Introduzione e contesto del problema (1-2 slide)
+3. Obiettivi dello studio (1 slide)
+4. Metodi (1-2 slide)
+5. Risultati principali, con figure o tabelle (3-4 slide)
+6. Discussione e conclusioni (1-2 slide)
+7. Ringraziamenti (facoltativo, se pertinente, 1 slide)
+
+Per una tesi triennale (5 minuti) la stessa struttura va compressa: introduzione, obiettivi e metodi si possono accorpare in 1-2 slide complessive, lasciando comunque lo spazio maggiore a risultati e conclusioni.
+
+Come per la tesi scritta, anche in presentazione introduzione e metodi vanno tenuti brevi, mentre risultati e discussione meritano lo spazio maggiore, perché sono la parte più originale del lavoro.
+
+La figura seguente mostra un esempio di slide essenziale: poco testo, un titolo chiaro e una figura che comunica subito il contenuto.
+
+![Esempio di slide essenziale, con poco testo e una figura che sintetizza il risultato principale.](Figures/slide-esempio-it.png){width=80%}
+
+# Bibliografia
 
 Questa tesi è ispirata principalmente ai seguenti testi e riferimenti (per quanto si basi perlopiù su considerazioni)
 
@@ -355,4 +389,3 @@ _un testo storico su come scrivere una tesi di Laurea (in Italiano)_
 
 - Sainani  K. Scientific writing [youtube course](https://www.youtube.com/watch?v=x33Km7hRzP0&list=PL8yeejfiNxNBT2rTomRjmWNlgh4DBmHST)
 _un utilissimo corso online che spiega molti elementi fondamentali di scientific writing citati in questa guida._
-

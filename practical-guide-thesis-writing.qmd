@@ -343,8 +343,41 @@ Many universities use anti-plagiarism software (e.g., [Turnitin](https://www.tur
 A possibility is to use a free plagiarism check software (e.g. [Scribbr Free Plagiarism Checker](https://www.scribbr.com/plagiarism-checker/))
 
 
+# Tips for the Final Presentation
 
-## References
+The final thesis presentation is a different moment from the written thesis, with its own rules, and the available time varies depending on the type of degree. For **bachelor's theses**, the format is typically 5 minutes of presentation followed by 5 minutes of discussion with the committee; for **master's theses**, it is typically 10 minutes of presentation followed by 5 minutes of discussion. It is always worth checking the exact timing required by your own university or degree programme, as it can vary.
+
+## General Tips
+
+A useful rule of thumb is to plan for **about one slide per minute** of available presentation time: with 5 minutes it is hard to manage more than 5-6 slides well, with 10 minutes more than 10-12.
+
+The text on each slide should be kept to a minimum: a slide is not a document to be read, but a guide that helps the speaker follow the flow of the talk and helps the audience stay oriented. Long sentences, dense bullet lists, or full paragraphs should be avoided: a few key words, a clear title, one striking piece of data are enough.
+
+Figures and images, when well chosen, communicate more, and faster, than a paragraph of text, and help capture the audience's attention. Generative AI tools (LLMs) can be used to create them, as long as they are not overused: an image must be relevant and clear, not merely decorative.
+
+Finally, it is important to resist the temptation to squeeze everything done in the thesis into the presentation. What is assessed in the final defence is above all the ability to **synthesize**: choosing what to tell, what to leave out, and how to present the essential information within the available time is an integral part of the exam.
+
+## Presentation Structure
+
+A typical structure for the presentation of an empirical master's thesis (10 minutes) could be:
+
+1. Title, author, supervisor (1 slide)
+2. Introduction and background (1-2 slides)
+3. Study objectives (1 slide)
+4. Methods (1-2 slides)
+5. Main results, with figures or tables (3-4 slides)
+6. Discussion and conclusions (1-2 slides)
+7. Acknowledgements (optional, if pertinent, 1 slide)
+
+For a bachelor's thesis (5 minutes), the same structure needs to be compressed: introduction, objectives, and methods can be merged into 1-2 slides overall, still leaving the most space for results and conclusions.
+
+As with the written thesis, the introduction and methods should be kept brief in the presentation too, while the results and discussion deserve the most space, since they are the most original part of the work.
+
+The figure below shows an example of an essential slide: little text, a clear title, and a figure that immediately conveys the content.
+
+![Example of an essential slide, with minimal text and a figure that summarizes the main result.](Figures/slide-example-en.png){width=80%}
+
+# Bibliography
 
 This guide is mainly inspired by the following texts and references (although it is largely based on personal considerations)
 
