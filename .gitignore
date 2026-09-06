@@ -51,7 +51,6 @@ rsconnect/
 # data and results folder
 data/*
 Original_Data/*
-Figures/*
 Results/*
 Original Data/*
 Export_Files/*
